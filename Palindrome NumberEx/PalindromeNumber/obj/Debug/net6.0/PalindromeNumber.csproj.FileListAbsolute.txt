@@ -1,0 +1,14 @@
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.exe
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.deps.json
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.runtimeconfig.json
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.dll
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.pdb
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.AssemblyInfo.cs
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.dll
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\refint\PalindromeNumber.dll
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.pdb
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.genruntimeconfig.cache
+C:\Users\infprog\Desktop\Palindrome NumberEx\PalindromeNumber\obj\Debug\net6.0\ref\PalindromeNumber.dll
